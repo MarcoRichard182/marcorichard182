@@ -9,6 +9,7 @@
   - [Big data analytics for Healthcare Insights]()<br/><a >In this Project </a>
   - [Data Analytics Using R studio]()<br/><a >In this Project </a>
   - Predictive Analytics
+  - Sentimental Analysis
 
 - <b>Image Processing Project</b>
   - [Vet EPDA]()<br/><a >In this Project </a>
