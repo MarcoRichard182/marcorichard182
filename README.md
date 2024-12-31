@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Money Manager with Machine Learning](https://github.com/MarcoRichard182/Money-Manager-with-Machine-Learning)<br/><a >In this Project </a>
+- <b>Full Stack Web App </b>
+  - [Money Manager with Machine Learning](https://github.com/MarcoRichard182/Money-Manager-with-Machine-Learning)<br/><a >A feature-rich budgeting and expense management website developed using HTML, CSS, Flask, SQL, and Python. The platform allows users to manage their finances by tracking expenses and setting budgets. What sets this project apart is the integration of machine learning to provide:Spending Suggestions: Personalized advice to optimize financial decisions.
+Spending Quality Predictions: A score or rating indicating how well money was spent based on patterns and goals.</a>
 
 - <b>Data Projects</b>
   - [Big data analytics for Healthcare Insights]()<br/><a >In this Project </a>
@@ -12,7 +13,7 @@
   - Sentimental Analysis
 
 - <b>Image Processing Project</b>
-  - [Vet EPDA]()<br/><a >In this Project </a>
+  - [Image Detectetion]()<br/><a >In this Project </a>
 
 - <b>CRUD Application</b>
   - [Banking Systems using Python]()<br/><a >In this Project </a>
