@@ -7,7 +7,7 @@
 Spending Quality Predictions: A score or rating indicating how well money was spent based on patterns and goals.</a>
 
 - <b>Data Projects</b>
-  - [Big data analytics for Healthcare Insights]()<br/><a  </a>
+  - [Big data analytics for Healthcare Insights]()<br/><a>  </a>
   - [Data Analytics Using R studio]()<br/><a > </a>
   - Predictive Analytics
   - Sentimental Analysis
