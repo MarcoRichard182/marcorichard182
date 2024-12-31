@@ -7,21 +7,21 @@
 Spending Quality Predictions: A score or rating indicating how well money was spent based on patterns and goals.</a>
 
 - <b>Data Projects</b>
-  - [Big data analytics for Healthcare Insights]()<br/><a >In this Project </a>
-  - [Data Analytics Using R studio]()<br/><a >In this Project </a>
+  - [Big data analytics for Healthcare Insights]()<br/><a  </a>
+  - [Data Analytics Using R studio]()<br/><a > </a>
   - Predictive Analytics
   - Sentimental Analysis
 
 - <b>Image Processing Project</b>
-  - [Image Detectetion]()<br/><a >In this Project </a>
+  - [Image Detectetion]()<br/><a > </a>
 
 - <b>CRUD Application</b>
-  - [Banking Systems using Python]()<br/><a >In this Project </a>
-  - [Vet EPDA]()<br/><a >In this Project </a>
-  - [Car Rental System]()<br/><a >In this Project </a>
+  - [Banking Systems using Python]()<br/><a ></a>
+  - [Vet EPDA]()<br/><a > </a>
+  - [Car Rental System]()<br/><a > </a>
 
 - <b>Mobile Application</b>
-  - [Film Planner Project](https://github.com/MarcoRichard182/Money-Manager-with-Machine-Learning)<br/><a >In this Project </a>
+  - [Film Planner Project](https://github.com/MarcoRichard182/Money-Manager-with-Machine-Learning)<br/><a > </a>
   
 
 
