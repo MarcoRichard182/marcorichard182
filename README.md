@@ -17,7 +17,7 @@ Spending Quality Predictions: A score or rating indicating how well money was sp
 
 - <b>CRUD Application</b>
   - [Banking Systems using Python]<br/><a ></a>
-  - [Vet EPDA]()<br/><a > </a>
+  - [Vet EPDA]<br/><a > </a>
   - [Car Rental System]<br/><a > </a>
 
 - <b>Mobile Application</b>
